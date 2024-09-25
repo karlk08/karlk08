@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 🔭 I’m currently working on an NPO project called Pride Farm( https://www.pridefarm.org/  ) and other solo projects. <br>🤝 I'm looking to contribute and get involved in volunteering opportunities.<br>🌱 My tech stack includes JavaScript | TypeScript | React | PostgreSQL and others I'm actively improving.<br>⚡Fun fact: I'm currently living in Japan, experiencing its culture and nature.
 
